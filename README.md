@@ -1,11 +1,9 @@
 <h1 align = "center">Hello, Developers 👋</h1></hr>
-<h3 align = "center">FULL STACK WEB DEVELPOMENT INTERN OFFERED BY EDUREKA!</h3>
+<h3 align = "center">A Mern Stack Developer!</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Shweta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/shweta-s-14b613212)
+[![Linkedin Badge](https://img.shields.io/badge/-Shweta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shweta-s-14b613212)](https://www.linkedin.com/in/shweta-s-14b613212)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Shweta-yellow)](https://stackoverflow.com/users/16828712/shweta)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Shweta-pink)](https://www.facebook.com/profile.php?id=100035395179805)
-
-<hr/>
 
   I'm Shweta. I did my BCA in 2021. I am passionate about working on Web Development. Proficient in C, C++, Java, JavaScript, NodeJs, ReactJs, Css, BootStrap, jQuery, ExpressJs, Data Structure & Algorithms.
   Looking for start the career. Contact Me : <a href="mailto:info.shwetasaini2217@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>
