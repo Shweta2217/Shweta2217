@@ -1,7 +1,7 @@
 <h1 >Hello, Developers 👋</h1>
-<h3 >I am a Mern Stack Developer!</h3>
-</hr>
-[![Linkedin Badge](https://img.shields.io/badge/-Shweta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shweta-s-14b613212)](https://www.linkedin.com/in/shweta-s-14b613212)
+<h3 >I am a Mern Stack Developer!</h3></hr>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Shweta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/shweta-s-14b613212)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Shweta-yellow)](https://stackoverflow.com/users/16828712/shweta)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Shweta-pink)](https://www.facebook.com/profile.php?id=100035395179805)
 
