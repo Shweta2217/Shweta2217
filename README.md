@@ -1,5 +1,5 @@
 <h1 >Hello, Developers 👋</h1>
-<h3 >I am a Mern Stack Developer!</h3></hr>
+<h3 >I am a Full Stack(Mern) Developer!</h3></hr>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Shweta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/shweta-s-14b613212)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Shweta-yellow)](https://stackoverflow.com/users/16828712/shweta)
