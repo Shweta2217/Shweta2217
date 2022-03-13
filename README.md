@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Shweta-yellow)](https://stackoverflow.com/users/16828712/shweta)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Shweta-pink)](https://www.facebook.com/profile.php?id=100035395179805)
 
-  My name is Shweta and I am a MERN Stack Developer. I completed my BCA in 2021. I am passionate about working on Web Development. Proficient in C, C++, Java, JavaScript, NodeJs, ReactJs, Css, BootStrap, jQuery, ExpressJs, Data Structure & Algorithms.
+  My name is Shweta and I am a MERN Stack Developer. I completed my BCA in 2021. I am passionate about working on Web Development. Proficient in C, C++, JavaScript, NodeJs, ReactJs, Css, BootStrap,Ejs, jQuery, ExpressJs.
   Looking for start the career. Contact Me : <a href="mailto:info.shwetasaini2217@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>
 
 ![Visitor Count](https://profile-counter.glitch.me/Shweta2217/count.svg)
